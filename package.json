@@ -16,7 +16,7 @@
   },
   "scripts": {
     "heroku-postbuild": "rm -rf ./build && react-scripts build",
-    "start": "node server.js",
+    "start": "react-scripts start",
     "start-dev": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
