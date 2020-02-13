@@ -1,0 +1,28 @@
+
+[
+    {
+        "id": "1",
+        "setup": "What is a tornado's favorite game to play?",
+        "punchline": "Twister!"
+    },
+    {
+        "id": "2",
+        "setup": "What do you call a sheep with no legs?",
+        "punchline": "A cloud."
+    },
+    {
+        "id": "3",
+        "setup": "What did the spaghetti say to the other spaghetti?",
+        "punchline": "Pasta la vista, baby!"
+    },
+    {
+        "id": "4",
+        "setup": "I got hit in the head by a soda can, but it didn't hurt that much...",
+        "punchline": "It was a soft drink."
+    },
+    {
+        "id": "5",
+        "setup": "A SQL query walks into a bar, walks up to two tables and asks...",
+        "punchline": "'Can I join you?'"
+    }
+]
